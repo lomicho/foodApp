@@ -9,5 +9,5 @@ Backend serverless utilisant AWS
 ## Base de données
 Base de données noSQL DynamoDB
 
-## Front end
+## Frontend
 Application web utilisant le framework NativeScript (Angular 5)
